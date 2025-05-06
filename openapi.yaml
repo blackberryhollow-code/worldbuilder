@@ -1,0 +1,18 @@
+openapi: 3.0.0
+info:
+  title: World Builder API
+  version: 1.0.0
+servers:
+  - url: https://raw.githubusercontent.com/your-username/worldbuilder/main
+paths:
+  /geography_worksheet.json:
+    get:
+      operationId: getGeographyWorksheet
+      summary: Get the Geography & Setting worksheet
+      responses:
+        '200':
+          description: Worksheet JSON
+          content:
+            application/json:
+              schema:
+                type: object
