@@ -1,0 +1,38 @@
+{
+  "name": "Geography & Setting Worksheet",
+  "description": "Guided questions to help writers build a fictional world's geography, climate, and setting.",
+  "questions": [
+    {
+      "id": "world_name",
+      "question": "What is the name of your world or main region?"
+    },
+    {
+      "id": "landforms",
+      "question": "What kind of landforms does it have? (Mountains, deserts, rivers, etc.)"
+    },
+    {
+      "id": "climate",
+      "question": "What is the climate or weather like in different regions?"
+    },
+    {
+      "id": "locations",
+      "question": "Are there any major cities, capitals, or settlements? Where are they located?"
+    },
+    {
+      "id": "transportation",
+      "question": "What kind of transportation is used? Are roads, rivers, or portals common?"
+    },
+    {
+      "id": "barriers",
+      "question": "What borders or natural barriers divide different areas (like oceans or magical fields)?"
+    },
+    {
+      "id": "landmarks",
+      "question": "Are there any important historical landmarks, ruins, or mythic locations?"
+    },
+    {
+      "id": "theme",
+      "question": "Does the setting have a theme, tone, or inspiration (e.g., Viking saga, desert survival, steampunk metropolis)?"
+    }
+  ]
+}
